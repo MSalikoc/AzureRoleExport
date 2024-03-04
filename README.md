@@ -27,4 +27,5 @@ Run the following command from PowerShell to determine your PowerShell version:
 ## Troubleshooting
 For solutions to common installation issues with the Az PowerShell module, see Troubleshoot installation problems with the Azure Az PowerShell module.
 
-```
+## Lastly change the Subscription name and run exportRGroles.ps1
+Good luck
